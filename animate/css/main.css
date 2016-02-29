@@ -1,0 +1,21 @@
+div{
+	height: 100px;
+	background-color: pink;
+	width: 70%;
+	margin: 100px auto;
+}
+
+.one{
+	border:1px solid black;
+	padding: 100px;
+}
+
+.two{
+	border:10px solid blue;
+	padding: 20px 50px;
+}
+
+.three{
+	border:30px solid green;
+	padding: 20px 30px 10px 200px;
+}
